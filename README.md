@@ -3,7 +3,7 @@ This will show you how to trigger email notifications on s3 events via lambda fu
 
 Prerequisites
 1. AWS account
-If you do, check the AWS services yo will use below
+If you do have an account, check the AWS services you will use below
 
 1. You need to create an IAM Role for lambda access to s3 and SES
 2. S3 bucket
