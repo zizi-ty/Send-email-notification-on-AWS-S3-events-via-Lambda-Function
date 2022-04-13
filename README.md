@@ -22,6 +22,7 @@ STEP 1
   * AWSLambdaExecute
   * AmazonSESFullAccess
   * AmazonS3FullAccess
+
 Once the role is created, go to step 2
 
 STEP 2
@@ -33,6 +34,7 @@ STEP 2
 - Click on the Change default execution role dropdown, then choose use existing role
 - Under Existing role, choose the role you created in STEP 1
 - Then click create function
+
 Once you have created the function, go the step 3
 
 STEP 3
@@ -63,4 +65,4 @@ After all of this is set up, go to your lambda function.
 Use the tutorial provided to edit the code and deploy when you are done. Customise your message, subject and anything else to best suit your needs. Check the boto3 document here for reference https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ses.html#SES.Client.send_email
 
 
-GOOD LUCK!
+okay bye
